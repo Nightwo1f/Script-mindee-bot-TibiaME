@@ -5,5 +5,5 @@ Repositório para criação de scripts
 
 Objetido - criar um script abordando todas as missões diárias de forma autônoma
 
-## ite do Bot
+## Site do Bot
 [Mindee-bot](https://mindee-bot.com/)
